@@ -3,7 +3,7 @@ This is a program that manipulates stacks and queues. The program asks the user 
 
 Following are sample input and output text files.
 
-<Strong>Input.txt</Strong><br>
+<Strong>input.txt</Strong><br>
 create i1 queue<br>
 create i1 queue<br>
 create i1 stack<br>
@@ -57,7 +57,7 @@ pop dHelloWorld<br>
 pop dHelloWorld<br>
 pop dHelloWorld<br>
 
-<strong>Output.txt</strong><br>
+<strong>output.txt</strong><br>
 PROCESSING COMMAND: create i1 queue<br>
 PROCESSING COMMAND: create i1 queue<br>
 ERROR: This name already exists!<br>
