@@ -3,7 +3,7 @@ This is a program that manipulates stacks and queues. The program asks the user 
 
 Following are sample input and output text files.
 
-Input.txt
+<Strong>Input.txt</Strong><br>
 create i1 queue
 create i1 queue
 create i1 stack
